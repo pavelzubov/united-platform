@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "investor-web-portal",
+    "manager-web-portal",
+    "shared"
+  ]
+}
