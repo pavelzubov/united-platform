@@ -22,6 +22,8 @@
     "qs": "^6.5.1",
     "rc-slider": "^8.6.1",
     "react": "^16.3.2",
+    "react-app-rewired": "latest",
+    "react-app-rewire-yarn-workspaces": "latest",
     "react-calendar": "^2.17.5",
     "react-content-loader": "^3.1.2",
     "react-cropper": "^1.0.1",
